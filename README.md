@@ -13,7 +13,7 @@
 
 *+[Executive Outline](#executive outline)**
 
-**[Objective](#objective)*+
+**[Objective](#objective)**
 
 **[Workflow](#workflow)**
 
@@ -87,7 +87,7 @@ The objective of this project is to build a model that will predict a booking as
   Checking evaluation matrix on the tuned model AUC ROC curve
   Plotting the Top 15 important faetures in the dataset
 
-## **Visualisation*+
+## **Visualisation**
 Insightful dashboards was built with Tableau to effectively envision distinctive  plots such as the distribution plots of different variables (independent and dependent) and creation of a visually appealing dashboard to predict cancellations, understand customer behaviour and how to prevent future cancellations.
 
 **Tableau visualization for this project can be found under this link**; 
