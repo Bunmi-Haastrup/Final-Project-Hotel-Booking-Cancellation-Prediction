@@ -2,7 +2,6 @@
 
 ![alt text](https://github.com/Bunmi-Haastrup/Hermione-granger/blob/main/image.png)
 
-     𝒫𝒾𝒸𝓉𝓊𝓇𝑒 𝓈𝑜𝓊𝓇𝒸𝑒:𝐿𝒶𝓃𝑔𝒶𝓃.𝒸𝑜𝓂, 𝑀𝒶𝓅 𝓈𝑜𝓊𝓇𝒸𝑒: 𝐻𝑒𝓇𝓂𝒾𝑜𝓃𝑒-𝑔𝓇𝒶𝓃𝑔𝑒𝓇
      
   ## **May 2021**
   
@@ -92,7 +91,7 @@ Insightful dashboards was built with Tableau to effectively envision distinctive
 
 **Tableau visualization for this project can be found under this link**; 
 
-https://public.tableau.com/profile/olubunmi.abimbola.haastrup#!/vizhome/MidProjectworkongoing/Dashboard4?publish=yes
+https://public.tableau.com/profile/olubunmi.abimbola.haastrup#!/vizhome/InProgress_16213358728240/TotalofBookingsperspecialrequest?publish=yes=yes
 
 ![alt text](https://github.com/Bunmi-Haastrup/Hermione-granger/blob/main/visualization.png)
 
