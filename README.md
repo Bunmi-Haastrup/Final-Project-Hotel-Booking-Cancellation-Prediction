@@ -32,8 +32,6 @@ With the increase in trend of booking cancellation from year to year, nearly 40 
 ## **Executive Outline**
 The objective of this project is to build a model that will predict a booking as cancelled or not cancelled using classification. To achieve this, we have used a real bookings dataset from City Hotel (Lisbon) and Resort Hotel in (Algarve region) Portugal, the dataset was gotten from[source](https://www.kaggle.com/jessemostipak/hotel-booking-demand). The bookings was scheduled between Ist July, 2015 until 31st August, 2017. The dataset consists of 119,390 observations with 32 variables. Full details in the data dictionary. Cleaning and Wrangling was performed on the dataset to remove all noise with appropriate feature engineering. The EDA process includes analysis of the traget variable which is (cancellation) in relation to the other features, various visualisation tools were deploy to identify trends and extract valuable insights from analysis. Pywedge was used to visualize correlation between variables, the data was afterwards balanced using SMOTE. Three models were used for prediction: logisticRegression, Decisiom Tree and Random Classifier. two accuracy checker was used to check best accuracy score: Confusion Matrix and AUC / ROC curve. The model with the highest test accuracy was selected to gain insights of the factors that most influence cancellations. The model were evaluated, conclusion and recommendations were derived for hotels to predict future inference, optimize production cost, improve forcast and ultimately increase revenue.
 
-![alt text](https://github.com/Bunmi-Haastrup/Hermione-granger/blob/main/image-2.png)
-
 # **Objective**
  The goal is find out the Type of customer who cancelled and using EDA to understand the pattern of booking cancellation.
  To predict the variable that most affect cancellation.
@@ -48,6 +46,7 @@ The objective of this project is to build a model that will predict a booking as
  Why Type of customer are more likely to cancel the most?
  Does distance affects cancellations?
  How much influence does other feautures have on cancellations
+
 
  ![alt text](https://github.com/Bunmi-Haastrup/Final-Project-Hotel-Booking-Cancellation-Prediction/blob/main/Visualizations/Workflow.png)
 
