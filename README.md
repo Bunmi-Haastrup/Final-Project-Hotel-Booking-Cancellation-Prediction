@@ -1,16 +1,17 @@
-# **Final-Project-Hotel-Booking-Cancellation-Prediction**
+## **Final-Project-Hotel-Booking-Cancellation-Prediction**
 
 ![alt text](https://github.com/Bunmi-Haastrup/Final-Project-Hotel-Booking-Cancellation-Prediction/blob/main/Visualizations/Portugal%20Map.png)
 
      
-  ## **May 2021**
+ ## **May 2021**
   
-# **Content**
+## **Content**
+
 **[Background Information](#ibackground information)**
 
 **[Problem of Solution](#problem of the solution)**
 
-*+[Executive Outline](#executive outline)**
+**[Executive Outline](#executive outline)**
 
 **[Objective](#objective)**
 
@@ -32,20 +33,20 @@ With the increase in trend of booking cancellation from year to year, nearly 40 
 ## **Executive Outline**
 The objective of this project is to build a model that will predict a booking as cancelled or not cancelled using classification. To achieve this, we have used a real bookings dataset from City Hotel (Lisbon) and Resort Hotel in (Algarve region) Portugal, the dataset was gotten from[source](https://www.kaggle.com/jessemostipak/hotel-booking-demand). The bookings was scheduled between Ist July, 2015 until 31st August, 2017. The dataset consists of 119,390 observations with 32 variables. Full details in the data dictionary. Cleaning and Wrangling was performed on the dataset to remove all noise with appropriate feature engineering. The EDA process includes analysis of the traget variable which is (cancellation) in relation to the other features, various visualisation tools were deploy to identify trends and extract valuable insights from analysis. Pywedge was used to visualize correlation between variables, the data was afterwards balanced using SMOTE. Three models were used for prediction: logisticRegression, Decisiom Tree and Random Classifier. two accuracy checker was used to check best accuracy score: Confusion Matrix and AUC / ROC curve. The model with the highest test accuracy was selected to gain insights of the factors that most influence cancellations. The model were evaluated, conclusion and recommendations were derived for hotels to predict future inference, optimize production cost, improve forcast and ultimately increase revenue.
 
-# **Objective**
- The goal is find out the Type of customer who cancelled and using EDA to understand the pattern of booking cancellation.
- To predict the variable that most affect cancellation.
- Identifing higher risk of booking cancellations, in order to accept the lower risk bookings.
- Building classification Machine learning ,model that best predict cancellations.
- Visualizing cancellation with dashboards to best explains the problem and proferring recommendations.
- Discover the model with highest accuracy score to predict cancellations.
+## **Objective**
+ 1.The goal is find out the Type of customer who cancelled and using EDA to understand the pattern of booking cancellation.
+ 2.To predict the variable that most affect cancellation.
+ 3.Identifing higher risk of booking cancellations, in order to accept the lower risk bookings.
+ 4.Building classification Machine learning ,model that best predict cancellations.
+ 5.Visualizing cancellation with dashboards to best explains the problem and proferring recommendations.
+ 6.Discover the model with highest accuracy score to predict cancellations.
 
 ## **Business Related Questions**
- How lead time of bookings affects cancellations?
- What time of the year has the highest bookings and cancellations?
- Why Type of customer are more likely to cancel the most?
- Does distance affects cancellations?
- How much influence does other feautures have on cancellations
+1. How lead time of bookings affects cancellations?
+2. What time of the year has the highest bookings and cancellations?
+3. Why Type of customer are more likely to cancel the most?
+4. Does distance affects cancellations?
+5. How much influence does other feautures have on cancellations
 
 
  ![alt text](https://github.com/Bunmi-Haastrup/Final-Project-Hotel-Booking-Cancellation-Prediction/blob/main/Visualizations/Workflow.png)
