@@ -1,4 +1,4 @@
-## **Final-Project-Hotel-Booking-Cancellation-Prediction**
+### **Final-Project-Hotel-Booking-Cancellation-Prediction**
 
 ![alt text](https://github.com/Bunmi-Haastrup/Final-Project-Hotel-Booking-Cancellation-Prediction/blob/main/Visualizations/Portugal%20Map.png)
 
@@ -91,9 +91,8 @@ Insightful dashboards was built with Tableau to effectively envision distinctive
 
 [tableau link](https://public.tableau.com/profile/olubunmi.abimbola.haastrup#!/vizhome/InProgress_16213358728240/TotalofBookingsperspecialrequest?publish=yes)
 
-![alt text](https://github.com/Bunmi-Haastrup/Hermione-granger/blob/main/visualization.png)
 
-# **Observation Conclusion**
+## **Observation and Conclusion**
 Logistic Regression, Decsion Tree and Radom Claasifier was the models adopted in solving the hotel booking classification. 735 accuracy score was identifed with Logistic regression, Decison tree identifed an accuracy score of 85% while Random Tree Classifier was 84%. As a result, I will therefore conclude that either Decision Tree and Random Forest Classifier can be considered for hotels to achieve a more accurate forecast of their booking confirmation which will better improve their return on investment(ROI). Although every model has its own shortcoming, can surfix in cutting down on cancellation rate. This will also help hotel managers to understand customer behaviour, which customer has better bookings confirmation and understand how fast a booking should be confirmed to avoid cancellations.
 
 
