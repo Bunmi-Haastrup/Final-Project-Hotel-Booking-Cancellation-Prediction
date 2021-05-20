@@ -91,7 +91,7 @@ Insightful dashboards was built with Tableau to effectively envision distinctive
 
 **Tableau visualization for this project can be found under this link**; 
 
-https://public.tableau.com/profile/olubunmi.abimbola.haastrup#!/vizhome/InProgress_16213358728240/TotalofBookingsperspecialrequest?publish=yes=yes
+[tableau link](https://public.tableau.com/profile/olubunmi.abimbola.haastrup#!/vizhome/InProgress_16213358728240/TotalofBookingsperspecialrequest?publish=yes)
 
 ![alt text](https://github.com/Bunmi-Haastrup/Hermione-granger/blob/main/visualization.png)
 
