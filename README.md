@@ -1,6 +1,6 @@
 # **Final-Project-Hotel-Booking-Cancellation-Prediction**
 
-![alt text](https://github.com/Bunmi-Haastrup/Hermione-granger/blob/main/image.png)
+![alt text](https://github.com/Bunmi-Haastrup/Final-Project-Hotel-Booking-Cancellation-Prediction/blob/main/Visualizations/Portugal%20Map.png)
 
      
   ## **May 2021**
