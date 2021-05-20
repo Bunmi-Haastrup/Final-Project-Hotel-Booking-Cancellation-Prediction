@@ -18,15 +18,13 @@
 
 **[Visualisation](#Visualisation)**
 
-*+[Observation and conclusion](#Observation and Conclusion)**
+**[Observation and conclusion](#Observation and Conclusion)**
 
 **[Data Dictionary](#data dictionary)**
 
 ## **Background Information**
 The hotel industry is said to be one of the growing sector of the hospitality sector, most especially with the rise of giant OTA that make booking a hotel as       easy as is ever can been. However, the growth comes with its own challenge, one of the problem is the rising rate of cancellation in the hotel industry, the       cancellation rate grew from under 33% in 2014 to 40% in 2018[source](https://resources.emerchantpay.com/how-hotels-can-combat-rising-cancellation-rates).
 The hospitality industry is a highly competitive industry which includes hotels, in order to stay competitive, hotels will have to be on top of their gain to       remain in business. Reflection on what it is they are doing wrong is as important as the business. One of the challenges faced with the hotel industry is Booking cancellations [source](https://www.rateboard.io/en/blog/hotel-cancellations-pose-a-great-challenge).  Booking cancellations are unquestionably one of the biggest headaches of any hotel manager nowadays, it poses a threat of attaining the forecasted revenue and ultimately affect production cost. The free 24-hour free cancellation policy, of course is a strategy to attract customers, however, can be a double-edged sword that equally has a negative effect on their revenue [source](https://www.researchgate.net/publication/310504011_Predicting_Hotel_Booking_Cancellation_to_Decrease_Uncertainty_and_Increase_Revenue).
-
-#link to Map
 
 ## **Problem of the Statement**
 With the increase in trend of booking cancellation from year to year, nearly 40 percent of hotel bookings is likely to be cancelled prior to arrival with only     few bookings leading to confirmation. The reports states that guests have become accustomed to free cancellation policies that have been made popular ([source].   (https://www.hotelmanagement.net/tech/study-cancelation-rate-at-40-as-otas-push-free-change-policy).This problem poses to have an adverse effect on the hotel's     business forecast, loss in opportunity cost which results to unsold room and automatically affects ROI. 
@@ -51,7 +49,7 @@ The objective of this project is to build a model that will predict a booking as
  Does distance affects cancellations?
  How much influence does other feautures have on cancellations
 
-## **workflow**
+ ![alt text](https://github.com/Bunmi-Haastrup/Final-Project-Hotel-Booking-Cancellation-Prediction/blob/main/Visualizations/Workflow.png)
 
 1. **Data Cleaning** :
 
