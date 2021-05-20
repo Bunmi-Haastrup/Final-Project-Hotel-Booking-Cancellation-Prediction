@@ -7,7 +7,7 @@
   
 ## **Content**
 
-**[Background Information](#ibackground information)**
+**[Background Information](#background information)**
 
 **[Problem of Solution](#problem of the solution)**
 
